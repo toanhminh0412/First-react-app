@@ -1,0 +1,12 @@
+.UserInput p {
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.UserInput input {
+    border: 2px solid #000;
+    height: 20px;
+    width: 200px;
+    border-radius: 5%;
+}
